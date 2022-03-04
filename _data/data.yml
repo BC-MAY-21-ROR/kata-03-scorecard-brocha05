@@ -7,16 +7,16 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
-  tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
-  avatar: escudo.png # No modificar
+  name: 'Jorge Dávalos' # Nombre completo
+  tagline: 'Ruby on Rails Web Developer' # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  avatar: 'escudo.png' # No modificar
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
+  email: brocha_05@hotmail.com
+  phone: '3121205056'
   website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
+  linkedin: 
+  github: 
   gitlab:
   bitbucket:
   twitter: '@BrightCoders'
